@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9323120b-03c1-4d26-bafc-d8f45bb04ba9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/.idea/QuizApplication.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuestionService/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuestionService/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuestionService/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuestionService/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuestionService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuestionService/src/main/java/com/telusko/QuestionService/QuestionServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuestionService/src/main/java/com/telusko/QuestionService/controller/QuestionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuestionService/src/main/java/com/telusko/QuestionService/model/QuestionWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuestionService/src/main/java/com/telusko/QuestionService/model/Questions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuestionService/src/main/java/com/telusko/QuestionService/model/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuestionService/src/main/java/com/telusko/QuestionService/repository/QuestionDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuestionService/src/main/java/com/telusko/QuestionService/service/QuestionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuestionService/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuestionService/src/test/java/com/telusko/QuestionService/QuestionServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizApplication/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizApplication/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizApplication/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizApplication/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizApplication/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizApplication/src/main/java/com/telusko/QuizApplication/QuizApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizApplication/src/main/java/com/telusko/QuizApplication/controller/QuestionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizApplication/src/main/java/com/telusko/QuizApplication/controller/QuizController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizApplication/src/main/java/com/telusko/QuizApplication/model/QuestionWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizApplication/src/main/java/com/telusko/QuizApplication/model/Questions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizApplication/src/main/java/com/telusko/QuizApplication/model/Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizApplication/src/main/java/com/telusko/QuizApplication/model/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizApplication/src/main/java/com/telusko/QuizApplication/repository/QuestionDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizApplication/src/main/java/com/telusko/QuizApplication/repository/QuizDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizApplication/src/main/java/com/telusko/QuizApplication/service/QuestionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizApplication/src/main/java/com/telusko/QuizApplication/service/QuizService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizApplication/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizApplication/src/test/java/com/telusko/QuizApplication/QuizApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizService/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizService/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizService/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizService/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizService/src/main/java/com/telusko/QuizService/QuizServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizService/src/main/java/com/telusko/QuizService/controller/QuizController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizService/src/main/java/com/telusko/QuizService/feign/QuizInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizService/src/main/java/com/telusko/QuizService/model/QuestionWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizService/src/main/java/com/telusko/QuizService/model/Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizService/src/main/java/com/telusko/QuizService/model/QuizDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizService/src/main/java/com/telusko/QuizService/model/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizService/src/main/java/com/telusko/QuizService/repository/QuizDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizService/src/main/java/com/telusko/QuizService/service/QuizService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizService/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/QuizService/src/test/java/com/telusko/QuizService/QuizServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/api-gateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/api-gateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/api-gateway/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/api-gateway/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/api-gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/api-gateway/src/main/java/com/telusko/api_gateway/ApiGatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/api-gateway/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/api-gateway/src/test/java/com/telusko/api_gateway/ApiGatewayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/service-registry/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/service-registry/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/service-registry/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/service-registry/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/service-registry/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/service-registry/src/main/java/com/telusko/service_registry/ServiceRegistryApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/service-registry/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/Microservice-Quiz/service-registry/src/test/java/com/telusko/service_registry/ServiceRegistryApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/QuizApplication/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/QuizApplication/.idea/QuizApplication.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/QuizApplication/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/QuizApplication/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/QuizApplication/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/QuizApplication/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/QuizApplication/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/QuizApplication/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/QuizApplication/QuizApplication/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/QuizApplication/QuizApplication/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/QuizApplication/QuizApplication/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/QuizApplication/QuizApplication/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/QuizApplication/QuizApplication/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/QuizApplication/QuizApplication/src/main/java/com/telusko/QuizApplication/QuizApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/QuizApplication/QuizApplication/src/main/java/com/telusko/QuizApplication/controller/QuestionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/QuizApplication/QuizApplication/src/main/java/com/telusko/QuizApplication/controller/QuizController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/QuizApplication/QuizApplication/src/main/java/com/telusko/QuizApplication/model/QuestionWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/QuizApplication/QuizApplication/src/main/java/com/telusko/QuizApplication/model/Questions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/QuizApplication/QuizApplication/src/main/java/com/telusko/QuizApplication/model/Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/QuizApplication/QuizApplication/src/main/java/com/telusko/QuizApplication/model/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/QuizApplication/QuizApplication/src/main/java/com/telusko/QuizApplication/repository/QuestionDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/QuizApplication/QuizApplication/src/main/java/com/telusko/QuizApplication/repository/QuizDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/QuizApplication/QuizApplication/src/main/java/com/telusko/QuizApplication/service/QuestionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/QuizApplication/QuizApplication/src/main/java/com/telusko/QuizApplication/service/QuizService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/QuizApplication/QuizApplication/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/QuizApplication/QuizApplication/src/test/java/com/telusko/QuizApplication/QuizApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring boot/SpringJDBCDemo/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring boot/simplemvc/target/m2e-wtp/web-resources/META-INF/maven/com.telusko/simplemvc/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring boot/simplemvc/target/m2e-wtp/web-resources/META-INF/maven/com.telusko/simplemvc/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring boot/springmvc/src/main/java/com/telusko/springmvcboot/AlienController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring boot/springmvc/src/main/java/com/telusko/springmvcboot/AlienController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring boot/springmvcmaven/target/m2e-wtp/web-resources/META-INF/maven/com.telusko/springmvcmaven/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring boot/springmvcmaven/target/m2e-wtp/web-resources/META-INF/maven/com.telusko/springmvcmaven/pom.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2mZ95NTTliKhDzJzWnLQ7gfs1zf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Java Sping boot/Multi-Threading"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9323120b-03c1-4d26-bafc-d8f45bb04ba9" name="Changes" comment="" />
+      <created>1727273046628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727273046628</updated>
+    </task>
+    <servers />
+  </component>
+</project>
